@@ -1,3 +1,3 @@
-#gonggam-junior project idea
+# gonggam-junior project idea
 ## concept: Basic Web Page
 
